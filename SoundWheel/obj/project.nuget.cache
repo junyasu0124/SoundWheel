@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lQnoPz9BXfA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasue\\source\\tool\\SoundWheel\\SoundWheel\\SoundWheel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasue\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.57\\microsoft.windows.sdk.net.ref.10.0.26100.57.nupkg.sha512"
+  ],
+  "logs": []
+}

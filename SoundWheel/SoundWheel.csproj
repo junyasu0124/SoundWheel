@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows10.0.26100.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>True</UseWindowsForms>
+    <SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
+    <Title>SoundWheel</Title>
+    <Authors>junyasu</Authors>
+    <Version>1.2.0</Version>
+    <Description>マウスの戻るボタンを押しながらマウスのホイールを回すことで音量を調整できます</Description>
+  </PropertyGroup>
+
+</Project>
